@@ -16,7 +16,7 @@ async def start(client,message):
 ➠ 𝘔𝘢𝘪𝘯𝘵𝘢𝘪𝘯𝘦𝘥 𝘉𝘺 : @Aman_Sain
 	""",reply_to_message_id = message.message_id ,  
 	reply_markup=InlineKeyboardMarkup(
-	 [[ InlineKeyboardButton("About Me 🇮🇳" , f"<b>○ Creator : <a href='tg://user?id={OWNER_ID}'>@Aman_Sain</a>\n○ Language : <code>Python3</code>\n○ Channel : @Andymovies\n○ Support Group : @andymoviesofficialchats</b>",") ]  ]))
+	 [[ InlineKeyboardButton("About Me 🇮🇳" , url="https://t.me/Andymovies")",") ]  ]))
 	
 
 
