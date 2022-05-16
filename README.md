@@ -70,5 +70,5 @@ A File Rename Bot with Custom Thumbnail Support
 ##  CONTACT ME ON ⬇️ 
 
 <p align="left">
-<a href="https://t.me/Aman_Sain"><img src="https://img.shields.io/badge/My%20TG%20ID-Vivek%20Tomar-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/Aman_Sain"><img src="https://img.shields.io/badge/My%20TG%20ID-Aman%20Sain-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
