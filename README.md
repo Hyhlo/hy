@@ -58,13 +58,13 @@ A File Rename Bot with Custom Thumbnail Support
 
 
 <p align="left">
-<a href="https://t.me/+4BCzLkyATjswNTA1"><img src="https://img.shields.io/badge/Join%20Our%20Group-Vivek%20Tomar-darkblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/+4BCzLkyATjswNTA1"><img src="https://img.shields.io/badge/Join%20Our%20Group-Aman%20Sain-darkblue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
 <a href="https://github.com/Amansain"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/Sain__aman_"><img src="https://img.shields.io/badge/Instagram-Vivek Tomar-magenta?style=for-the-badge&logo=instagram"></a>
+<a href="https://instagram.com/Sain__aman_"><img src="https://img.shields.io/badge/Instagram-Aman Sain-magenta?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ##  CONTACT ME ON ⬇️ 
