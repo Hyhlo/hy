@@ -8,7 +8,7 @@
     "repository": "https://github.com/Amansain/renameandy",
     "success_url": "https://telegram.dog/Aman_sain",
     "env": {
-        "APP_ID": {
+        "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
             "value": ""
         },
